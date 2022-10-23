@@ -37,7 +37,7 @@ Then set the style of the control you want to use the font on the sytle using a 
     Text="From Style in App.xaml" />
 ```
 
-## FontFamily Methods
+## FontFamily Method
 
 Reference the font directly on the control you wish to use font on.
 
