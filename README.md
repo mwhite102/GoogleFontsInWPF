@@ -14,7 +14,7 @@ Both methods require the font name.  The font name is not the name of font's fil
 
 To find the font name, double click the font file and the font name can be found in the font viewer.
 
-![Font Viewer](assets/font-viewer.png "Font Viewer")
+![Font Viewer](/assets/fontviewer.png "Font Viewer")
 
 ## Style Method
 
